@@ -23,5 +23,5 @@ pip install langchain-ollama langchain-core
 
 ## 사용 방법
 
-각 노트북 파일을 Jupyter에서 열어 실행하세요.
+각 노트북 파일을 Jupyter에서 열어 실행.
 
